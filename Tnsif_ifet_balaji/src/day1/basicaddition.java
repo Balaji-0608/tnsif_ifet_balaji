@@ -1,6 +1,6 @@
 package day1;
 
-public class day01 {
+public class basicaddition {
 
 	public static void main(String[] args) {
 		int a=Integer.parseInt(args[0]);
