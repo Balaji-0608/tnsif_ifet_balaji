@@ -1,5 +1,5 @@
 //Program to define abstract class
-package oops_abstraction;
+package day3.oops_abstraction;
 
 //abstract class
 public abstract class Shape {

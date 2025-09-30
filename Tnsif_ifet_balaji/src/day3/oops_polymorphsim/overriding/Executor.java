@@ -1,5 +1,5 @@
 //Program to demonstrate method overloading
-package oops_polymorphsim.overloading;
+package day3.oops_polymorphsim.overriding;
 
 public class Executor {
 

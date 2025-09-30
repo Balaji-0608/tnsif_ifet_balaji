@@ -1,4 +1,4 @@
-package oops_abstraction;
+package day3.oops_abstraction;
 
 public class AbstractDemo {
 
