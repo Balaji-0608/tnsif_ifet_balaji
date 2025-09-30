@@ -1,5 +1,5 @@
 //Program to demonstrate Runtime Polymorphism using Method Overriding
-package oops_polymorphsim.overriding;
+package day3.oops_polymorphsim.overloading;
 
 public class ShapeDemo {
 	public static void main(String[] args) {

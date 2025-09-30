@@ -1,5 +1,5 @@
 //Program to define Subclass Triangle
-package oops_polymorphsim.overriding;
+package day3.oops_polymorphsim.overloading;
 
 public class Triangle extends Shape {
 	private double base;

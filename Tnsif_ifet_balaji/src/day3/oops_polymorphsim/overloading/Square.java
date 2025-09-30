@@ -1,5 +1,5 @@
 //Program to define Subclass Square
-package oops_polymorphsim.overriding;
+package day3.oops_polymorphsim.overloading;
 
 
 public class Square extends Shape {
