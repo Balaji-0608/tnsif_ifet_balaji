@@ -5,7 +5,7 @@ final class FinalDemo {
 	final int Var = 100;
 	
 	final void display() {
-		System.out.println("show the value of max: "+var);
+		System.out.println("show the value of max: "+Var);
 	}
 
 	public static void main(String[] args) {
@@ -19,6 +19,6 @@ final class FinalDemo {
 
 class Child extends FinalDemo{
 	void display() {
-		System.out.println("show the value of max: "+var);
+		System.out.println("show the value of max: "+Var);
 	}
 }
